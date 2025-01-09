@@ -1,4 +1,4 @@
-![Send Noods Banner](assets/send-noods-gif.gif)
+![Send Noods Banner](assets/send-noods-banner.png)
 
 ## Hi there! (or should I say, Hiya!) 👋
 I'm Nicole Ellis, a third year university student and aspiring Technical Artist passionate about game design and enhancing connectivity between individuals through games. ♥
