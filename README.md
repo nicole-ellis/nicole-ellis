@@ -30,6 +30,5 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 <div align="center">
   <h3>Nicole Ellis' GitHub Stats</h3>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicole-ellis&show_icons=true&bg_color=0d1117&title_color=f4c542&text_color=ffffff&icon_color=b68c4a)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-ellis&layout=compact&bg_color=0d1117&title_color=f4c542&text_color=ffffff&icon_color=b68c4a)
-</div>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicole-ellis&show_icons=true&bg_color=a52323&title_color=dddacf&text_color=815e1b&icon_color=891717)
+  ![Top Languages](https://github-readme-stats.vercel.app/api?username=nicole-ellis&show_icons=true&bg_color=a52323&title_color=dddacf&text_color=815e1b&icon_color=891717)
