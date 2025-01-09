@@ -11,6 +11,7 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 
 🌟 **Featured Projects**
 - [**Send Noods**](https://github.com/nicole-ellis/send-noods): A narrative-based game made via Unity featuring custom pixel art, animations, and an original soundtrack.
+- Designed and modeled my profile picture in Maya and textured using Substance Painter.
 
 🌱 **I’m Currently Learning**
 - Udemy Python Programming for Maya Artists
