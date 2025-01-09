@@ -23,3 +23,5 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 - [Email](nicole.ellis1212@gmail.com )
 - [ArtStation](https://www.artstation.com/nicoleellis)
 - [LinkedIn](linkedin.com/in/nicolellis)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicole-ellis&show_icons=true&theme=radical)
