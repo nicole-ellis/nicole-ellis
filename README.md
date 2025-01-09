@@ -18,6 +18,6 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 - Managed and coached a high-rated Valorant esports team, achieving Immortal rank.
 
 📫 **Let's Connect!**
+- [Email](nicole.ellis1212@gmail.com )
 - [ArtStation](https://www.artstation.com/nicoleellis)
 - [LinkedIn](linkedin.com/in/nicolellis)
-- [Email](nicole.ellis1212@gmail.com )
