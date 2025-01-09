@@ -14,7 +14,7 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 - Udemy Python Programming for Maya Artists
 
 🏆 **Accomplishments**
-- Presented research poster *"A Narrative-Centered STORYPLAY for Enhancing Professional Skills"* at the 2024 PML Conference.
+- Presented research poster *"A Narrative-Centered Storyplay for Enhancing Professional Skills"* at the 2024 PML Conference.
 - Managed and coached a high-rated Valorant esports team, achieving Immortal rank.
 
 📫 **Let's Connect!**
