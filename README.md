@@ -12,6 +12,8 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 
 🌱 **I’m Currently Learning**
 - Udemy Python Programming for Maya Artists
+- Deepening Python scripting for pipeline development and artist tools.
+- Exploring PyQt/PySide frameworks to enhance user interfaces.
 
 🏆 **Accomplishments**
 - Presented research poster *"A Narrative-Centered Storyplay for Enhancing Professional Skills"* at the 2024 PML Conference.
