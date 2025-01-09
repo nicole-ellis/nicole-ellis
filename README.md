@@ -24,4 +24,9 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 - [ArtStation](https://www.artstation.com/nicoleellis)
 - [LinkedIn](linkedin.com/in/nicolellis)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicole-ellis&show_icons=true&theme=radical)
+<div align="center">
+  <h3>Nicole Ellis' GitHub Stats</h3>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicole-ellis&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-ellis&layout=compact&theme=radical)
+</div>
