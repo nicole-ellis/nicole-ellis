@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! (or should I say, Hiya!) 👋
 I'm Nicole Ellis, a third year university student and aspiring Technical Artist passionate about game design and enhancing connectivity between individuals through games. ♥
 
 🛠 **Skills and Tools**
