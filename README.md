@@ -18,7 +18,7 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 - Exploring PyQt/PySide frameworks to enhance user interfaces.
 
 🏆 **Accomplishments**
-- Published **[Send Noods]([https://nicoleellis.itch.io/send-noods])** on itch.io, showcasing custom art and engaging narratives.
+- Published **[Send Noods](https://nicoleellis.itch.io/send-noods)** on itch.io, showcasing custom art and engaging narratives.
 - Presented research poster *"A Narrative-Centered Storyplay for Enhancing Professional Skills"* at the 2024 PML Conference.
 - Managed and coached a high-rated Valorant esports team, achieving Immortal rank.
 
