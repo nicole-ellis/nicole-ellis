@@ -19,7 +19,7 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 🏆 **Accomplishments**
 - Published **[Send Noods](https://nicoleellis.itch.io/send-noods)** on itch.io, showcasing custom art and engaging narratives.
 - Presented research poster *"A Narrative-Centered Storyplay for Enhancing Professional Skills"* at the 2024 PML Conference.
-- Currently head coach for a professional Valorant esports team under the org **[FURY]***(https://www.vlr.gg/team/511/fury).
+- Currently head coach for a professional Valorant esports team under the org **[FURY](https://www.vlr.gg/team/511/fury)**.
 
 📫 **Let's Connect!**
 - [Email](nicole.ellis1212@gmail.com )
