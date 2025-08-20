@@ -1,7 +1,7 @@
 ![Send Noods Banner](assets/send-noods-banner.png)
 
 ## Hiya! 👋
-I'm Nicole Ellis, a third year university student and aspiring Technical Artist passionate about game design and enhancing connectivity between individuals through games. ♥
+I'm Nicole Ellis, a fourth year university student and aspiring Technical Artist passionate about game design and enhancing connectivity between individuals through games. ♥
 
 🛠 **Skills and Tools**
 - Programming/Scripting: Python, C#, Git/GitHub, HTML
