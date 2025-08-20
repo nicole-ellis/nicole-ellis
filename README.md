@@ -1,10 +1,10 @@
 ![Send Noods Banner](assets/send-noods-banner.png)
 
-## Hi there! (or should I say, Hiya!) 👋
+## Hiya! 👋
 I'm Nicole Ellis, a third year university student and aspiring Technical Artist passionate about game design and enhancing connectivity between individuals through games. ♥
 
 🛠 **Skills and Tools**
-- Programming/Scripting: Python, C#, Git/GitHub
+- Programming/Scripting: Python, C#, Git/GitHub, HTML
 - Game Engines: Unity, Unreal Engine
 - 3D Art & Design: Maya, Substance Painter
 - Project Management: Notion, Slack, Monday, Miro
@@ -14,7 +14,7 @@ I'm Nicole Ellis, a third year university student and aspiring Technical Artist 
 - Designed and modeled my profile picture in Maya and textured using Substance Painter.
 
 🌱 **I’m Currently Learning**
-- Introduction to HTML and Tailwind CSS.
+- Introduction to Tailwind CSS.
 
 🏆 **Accomplishments**
 - Published **[Send Noods](https://nicoleellis.itch.io/send-noods)** on itch.io, showcasing custom art and engaging narratives.
