@@ -13,7 +13,7 @@ I'm passionate about game development and enhancing connectivity between individ
 ### 🌟 **Featured Projects**
 - [**E-Sports Game**](https://github.com/nicole-ellis/sports-game): An aim trainer made using Unreal Engine with unique physics mechanics
 - [**Send Noods**](https://github.com/nicole-ellis/send-noods): A narrative-based game about a noodle restaurant made through Unity featuring custom pixel art, animations, and an original soundtrack.
-- Designed and modeled my profile picture in Maya and textured using Substance Painter.
+- Designed and modelled my profile picture in Maya and textured using Substance Painter.
 
 ### 🌱 **I’m Currently Working On...**
 - Fire to Flourish: A serious game about bushfire resilience
