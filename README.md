@@ -20,6 +20,6 @@ I'm passionate about game development and enhancing connectivity between individ
 - [**On a Winter's Night, A Gift Giver**](https://omnis-studios.itch.io/on-a-winters-night-a-gift-giver): A game jam submission based in Unity
 
 ### 🏆 **Accomplishments**
+- Professionally coached VALORANT for 4+ years, including rank #1 team in Oceania [**E-KING**](https://www.vlr.gg/team/18111/e-king), alongside [**FURY**](https://www.vlr.gg/team/511/fury) and [**BanditsESC**](https://www.vlr.gg/team/4073/bandit-esc)
 - Published **[Send Noods](https://nicoleellis.itch.io/send-noods)** on itch.io, showcasing custom art and engaging narratives.
 - Presented research poster *"A Narrative-Centered Storyplay for Enhancing Professional Skills"* at the 2024 PML Conference.
-- Professionally coached VALORANT for 4+ years, including rank #1 team in Oceania [**E-KING**](https://www.vlr.gg/team/18111/e-king), alongside [**FURY**](https://www.vlr.gg/team/511/fury) and [**BanditsESC**](https://www.vlr.gg/team/4073/bandit-esc)
