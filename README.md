@@ -4,7 +4,6 @@
 Final year Information Technology at Monash University (m. Games & Immersive Media) <br>
 I'm passionate about gameplay systems and interactive tools that enhance connection between people through games
 
----
 
 ## **Featured Projects**
 
@@ -17,7 +16,6 @@ A narrative-based game about a noodle restaurant made through Unity featuring cu
 [**Tank Gameplay Systems (Unity, C#)**](https://github.com/nicole-ellis/tank-gameplay-systems-unreal)<br>
 Core gameplay systems including player control, enemy AI behaviours, and combat interactions.
 
----
 
 ## **Skills and Tools**
 - **Programming:** C++, C#, Git/GitHub, Python, HTML
@@ -25,20 +23,17 @@ Core gameplay systems including player control, enemy AI behaviours, and combat 
 - **3D Art & Design:** Maya, Substance Painter
 - **Project Management:** Notion, Slack, Monday.com, Miro
 
----
 
 ## **Currently Working On**
 - **Fire to Flourish:** A hybrid tabletop serious game about bushfire resilience, developed with Unity
 - [**On a Winter's Night, A Gift Giver**](https://github.com/nicole-ellis/a-winters-night-gift-giver): A narrative game jam project focused on memory and storytelling
 
----
 
 ## **Accomplishments**
 - Professionally coached VALORANT for 4+ years, including rank #1 team in Oceania
 - Presented Fire to Flourish at 2025 SXSW Sydney.
 - Presented research poster *"A Narrative-Centered Storyplay for Enhancing Professional Skills"* at the 2024 PML Conference.
 
----
 
 ## Connect
 
